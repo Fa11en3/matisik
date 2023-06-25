@@ -1,0 +1,22 @@
+C:\Users\user\Source\Repos\мины\мины\bin\Debug\мины.exe.config
+C:\Users\user\Source\Repos\мины\мины\bin\Debug\мины.exe
+C:\Users\user\Source\Repos\мины\мины\bin\Debug\мины.pdb
+C:\Users\user\Source\Repos\мины\мины\obj\Debug\мины.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\мины\мины\obj\Debug\мины.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\мины\мины\obj\Debug\мины.Form1.resources
+C:\Users\user\Source\Repos\мины\мины\obj\Debug\мины.Properties.Resources.resources
+C:\Users\user\Source\Repos\мины\мины\obj\Debug\мины.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\мины\мины\obj\Debug\мины.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\мины\мины\obj\Debug\мины.exe
+C:\Users\user\Source\Repos\мины\мины\obj\Debug\мины.pdb
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\bin\Debug\мины.exe.config
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\bin\Debug\мины.exe
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\bin\Debug\мины.pdb
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\obj\Debug\мины.csproj.AssemblyReference.cache
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\obj\Debug\мины.csproj.SuggestedBindingRedirects.cache
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\obj\Debug\мины.Form1.resources
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\obj\Debug\мины.Properties.Resources.resources
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\obj\Debug\мины.csproj.GenerateResource.cache
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\obj\Debug\мины.csproj.CoreCompileInputs.cache
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\obj\Debug\мины.exe
+C:\Users\senma\OneDrive\Рабочий стол\мины\мины\obj\Debug\мины.pdb

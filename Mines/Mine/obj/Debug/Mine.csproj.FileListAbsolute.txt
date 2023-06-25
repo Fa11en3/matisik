@@ -1,0 +1,43 @@
+C:\Users\User\source\repos\Mines\Mine\bin\Debug\Mine.exe.config
+C:\Users\User\source\repos\Mines\Mine\bin\Debug\Mine.exe
+C:\Users\User\source\repos\Mines\Mine\bin\Debug\Mine.pdb
+C:\Users\User\source\repos\Mines\Mine\obj\Debug\Mine.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Mines\Mine\obj\Debug\Mine.Form1.resources
+C:\Users\User\source\repos\Mines\Mine\obj\Debug\Mine.Properties.Resources.resources
+C:\Users\User\source\repos\Mines\Mine\obj\Debug\Mine.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Mines\Mine\obj\Debug\Mine.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mines\Mine\obj\Debug\Mine.exe
+C:\Users\User\source\repos\Mines\Mine\obj\Debug\Mine.pdb
+E:\22\Mines\Mine\bin\Debug\Mine.exe.config
+E:\22\Mines\Mine\bin\Debug\Mine.exe
+E:\22\Mines\Mine\bin\Debug\Mine.pdb
+E:\22\Mines\Mine\obj\Debug\Mine.csproj.AssemblyReference.cache
+E:\22\Mines\Mine\obj\Debug\Mine.csproj.SuggestedBindingRedirects.cache
+E:\22\Mines\Mine\obj\Debug\Mine.Form1.resources
+E:\22\Mines\Mine\obj\Debug\Mine.Properties.Resources.resources
+E:\22\Mines\Mine\obj\Debug\Mine.csproj.GenerateResource.cache
+E:\22\Mines\Mine\obj\Debug\Mine.csproj.CoreCompileInputs.cache
+E:\22\Mines\Mine\obj\Debug\Mine.exe
+E:\22\Mines\Mine\obj\Debug\Mine.pdb
+C:\Users\senma\Downloads\Mines\Mine\bin\Debug\Mine.exe.config
+C:\Users\senma\Downloads\Mines\Mine\bin\Debug\Mine.exe
+C:\Users\senma\Downloads\Mines\Mine\bin\Debug\Mine.pdb
+C:\Users\senma\Downloads\Mines\Mine\obj\Debug\Mine.csproj.AssemblyReference.cache
+C:\Users\senma\Downloads\Mines\Mine\obj\Debug\Mine.csproj.SuggestedBindingRedirects.cache
+C:\Users\senma\Downloads\Mines\Mine\obj\Debug\Mine.Form1.resources
+C:\Users\senma\Downloads\Mines\Mine\obj\Debug\Mine.Properties.Resources.resources
+C:\Users\senma\Downloads\Mines\Mine\obj\Debug\Mine.csproj.GenerateResource.cache
+C:\Users\senma\Downloads\Mines\Mine\obj\Debug\Mine.csproj.CoreCompileInputs.cache
+C:\Users\senma\Downloads\Mines\Mine\obj\Debug\Mine.exe
+C:\Users\senma\Downloads\Mines\Mine\obj\Debug\Mine.pdb
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\bin\Debug\Mine.exe.config
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\bin\Debug\Mine.exe
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\bin\Debug\Mine.pdb
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\obj\Debug\Mine.csproj.AssemblyReference.cache
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\obj\Debug\Mine.csproj.SuggestedBindingRedirects.cache
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\obj\Debug\Mine.Form1.resources
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\obj\Debug\Mine.Properties.Resources.resources
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\obj\Debug\Mine.csproj.GenerateResource.cache
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\obj\Debug\Mine.csproj.CoreCompileInputs.cache
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\obj\Debug\Mine.exe
+C:\Users\senma\OneDrive\Рабочий стол\Mines\Mine\obj\Debug\Mine.pdb
